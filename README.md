@@ -1,3 +1,3 @@
 # numberguesser
-JavaScript Number guessing game project tutorial
+JavaScript Number guessing game project
 
